@@ -11,6 +11,10 @@ Hongtao Wu, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoy
 ![image](https://github.com/TonyHongtaoWu/SemiVDN/blob/main/figures/datasets.gif)
 
 ## Our Results
+<div align="center">
+  <img src="./figures/Img1.png" >
+</div>
+
 ![image](https://github.com/TonyHongtaoWu/SemiVDN/blob/main/figures/Results.gif)
 
 Our Realsnow85 dataset can be downloaded [here]().
