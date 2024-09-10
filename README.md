@@ -1,6 +1,6 @@
 <div align="center">
   <h1> SemiVDN  </h1>
-  <h2>Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts <br> and Distribution-Driven Contrastive Regularization</h2>
+  <h2>Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization</h2>
 </div>
 
 <p align="center">Hongtao Wu, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu<sup>:email:</sup></p>
