@@ -11,11 +11,6 @@
 
 
 
-## News
-- Realsnow85 dataset is now available.  
-- **`TODO`:**  Release pretrained model and codes.
-
-
 ## Realsnow85 Dataset
 
 https://private-user-images.githubusercontent.com/141260395/366072004-ebbf91e4-80bb-48d3-9184-21521d81763e.mp4
@@ -31,6 +26,12 @@ Our Realsnow85 dataset can be downloaded [here](https://hkustgz-my.sharepoint.co
 ### Synthetic visual results
 
 https://private-user-images.githubusercontent.com/141260395/366064880-4222f10a-1a39-4a45-9a4a-b5e5def10aa9.mp4
+
+
+| Methods          |  VDN                                                                   |  SemiVDN                                                                    |
+|------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| **Synthetic Dataset**         | [Link](https://hkustgz-my.sharepoint.com/:u:/g/personal/hwu375_connect_hkust-gz_edu_cn/EZAnxb5DoXtApmE_TzgPYPgB9gds8bBLJEEqiDSFbn2aPw?e=TJxfyk)                               | [Link](https://drive.google.com/file/d/1BgBfOktWlENB_StAwQ5Av-f1VA_F1aes/view?usp=sharing)                   |
+
 
 ### Real-world visual results
 
